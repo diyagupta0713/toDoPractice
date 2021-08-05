@@ -19,6 +19,7 @@
 		71C0DB7226B87F2D009275B6 /* toDoPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C0DB7126B87F2D009275B6 /* toDoPracticeUITests.swift */; };
 		71C0DB8026B88269009275B6 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C0DB7F26B88269009275B6 /* ToDoTableViewController.swift */; };
 		71C0DB8226B8840A009275B6 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C0DB8126B8840A009275B6 /* ToDo.swift */; };
+		71F2E6DC26BC4DDC00BF9845 /* ResourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71F2E6DB26BC4DDC00BF9845 /* ResourcesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		71C0DB7326B87F2D009275B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71C0DB7F26B88269009275B6 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; indentWidth = 5; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		71C0DB8126B8840A009275B6 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		71F2E6DB26BC4DDC00BF9845 /* ResourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				71C0DB4C26B87F24009275B6 /* AppDelegate.swift */,
 				71C0DB4E26B87F24009275B6 /* SceneDelegate.swift */,
 				71C0DB5226B87F24009275B6 /* Main.storyboard */,
+				71F2E6DB26BC4DDC00BF9845 /* ResourcesViewController.swift */,
 				7134429C26BB00DF00437648 /* AddToDoViewController.swift */,
 				71C0DB8126B8840A009275B6 /* ToDo.swift */,
 				71C0DB7F26B88269009275B6 /* ToDoTableViewController.swift */,
@@ -272,6 +275,7 @@
 			files = (
 				71C0DB4D26B87F24009275B6 /* AppDelegate.swift in Sources */,
 				71C0DB8226B8840A009275B6 /* ToDo.swift in Sources */,
+				71F2E6DC26BC4DDC00BF9845 /* ResourcesViewController.swift in Sources */,
 				71C0DB8026B88269009275B6 /* ToDoTableViewController.swift in Sources */,
 				7134429F26BB246E00437648 /* CompleteToDoViewController.swift in Sources */,
 				71C0DB5726B87F24009275B6 /* toDoPractice.xcdatamodeld in Sources */,
